@@ -1,5 +1,5 @@
-# Porstfolio Bootsrap v5.2
+# Portfolio Bootsrap v5.2
 
 simple portfolio dengan teknologi bootstrap.
 
-![Alt text](images/sample.png)
+![Alt text](img/sample.png)
